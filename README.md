@@ -1,2 +1,2 @@
 # Assignments
-this repo is only for assignment
+this repo is only for assignments
